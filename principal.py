@@ -117,3 +117,6 @@ joao.solicitar_transferencia(hvd, hvd_filosofia, ufb)
 print('')
 astolfo.efetivar_matricula(unip, unip_matematica)
 astolfo.solicitar_transferencia(unip, unip_matematica, hvd)
+"""IMPRESSÕES"""
+print(unip)
+print(hvd_filosofia)
